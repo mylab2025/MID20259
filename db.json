@@ -7,12 +7,12 @@
         "MF": "STMicroelectronics"
       },
       "MID": "MID20259",
-      "MD": "STM32L100RBT6A part is 3V3 logic with LQFP64 package (64Pins). Max MCU Current = 100mA || Max. Tolarent Voltage for VDD/VSS = 4V & for IO Pins = VDD+4V;  Other Specs:   Ultra-low-power 32-bit MCU ARM®-based Cortex®-M3, 128KB Flash, 16KB SRAM, 2KB EEPROM, LCD, USB, ADC, DAC. DB Note: Location to be allocate & Reference to be add.",
+      "MD": "STM32L100RBT6A part is 3V3 logic with LQFP64 package (64Pins). Max MCU Current = 100mA || Max. Tolarent Voltage for VDD/VSS = 4V & for IO Pins = VDD+4V;  Other Specs:   Ultra-low-power 32-bit MCU ARM®-based Cortex®-M3, 128KB Flash, 16KB SRAM, 2KB EEPROM, LCD, USB, ADC, DAC. DB Note: Location to be allocate & Reference not available.",
       "MT": "Electronic Comp.",
       "MQNT": 10,
       "MQATG": "#CLASS0",
       "ML": "",
-      "MDS": "https://www.st.com/content/ccc/resource/technical/document/datasheet/group3/12/cc/d2/27/5e/21/4b/97/DM00108661/files/DM00108661.pdf/jcr:content/translations/en.DM00108661.pdf",
+      "MDS": "https://docs.google.com/gview?url=https://raw.githubusercontent.com/mylab2025/MID20259/main/en.DM00108661.pdf&embedded=true",
       "MR": "",
       "MaterialImages": [
         "https://media-hosting.imagekit.io/1abc77be37f74428/WhatsApp%20Image%202025-03-29%20at%203.49.13%20PM.jpeg?Expires=1837851713&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=A66cSAlZ2W6Q2BBC0IpvUJ9zjXSnrshRaOQyoaqfSouOUmmJTU-skvQyg9UlZcaQ2bpojPYDrSsMz0JP9xUcKMXBmsUeSdtALiA1tMLO83flbIgEPctdp8FrZuCeLTcZeYiKMh~gbhjP7iF3xNZbGVXMV1F0KN4M8eDyipz-6YXnwY-hkZR63IqixDuXwUAv9nAVxgV~0kfaIoydin2Pg0ZeRrmVDrZBOwOLw2yDYZr60sV7x4KvztGZCpjAmdWJM99y9bDkvQWDrFI2ohzCTjCICZbs3XQ4ihHmlJjj48y7ji~fb-bdz6PKlzRumXXxuY5ZNuEWocjZG8MmJ5TomQ__",
