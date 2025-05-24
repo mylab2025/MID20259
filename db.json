@@ -7,13 +7,13 @@
         "MF": "STMICROELECTRONICS"
       },
       "MID": "MID20259",
-      "MD": "STM32L100RBT6A part is 3V3 logic with LQFP64 package (64Pins). Max MCU Current = 100mA || Max. Tolarent Voltage for VDD/VSS = 4V \u0026 for IO Pins = VDD\u002B4V;  Other Specs:   Ultra-low-power 32-bit MCU ARM\u00AE-based Cortex\u00AE-M3, 128KB Flash, 16KB SRAM, 2KB EEPROM, LCD, USB, ADC, DAC. DB Note: Location to be allocate \u0026 Reference not available.",
+      "MD": "STM32L100RBT6A part is 3V3 logic with LQFP64 package (64Pins). Max MCU Current = 100mA || Max. Tolarent Voltage for VDD/VSS = 4V & for IO Pins = VDD+4V;  Other Specs:   Ultra-low-power 32-bit MCU ARM®-based Cortex®-M3, 128KB Flash, 16KB SRAM, 2KB EEPROM, LCD, USB, ADC, DAC. DB Note: Location to be allocate & Reference not available.",
       "MT": "Electronic Material",
       "MQNT": 10,
+      "MCost": 374.1,
       "MQATG": "#CLASS_0",
       "ML": "",
-      "MCost": 374.1,
-      "MDS": "https://docs.google.com/gview?url=https://raw.githubusercontent.com/mylab2025/MID20259/main/en.DM00108661.pdf\u0026embedded=true",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/mylab2025/MID20259/main/en.DM00108661.pdf",
       "MAF1": "",
       "MAF2": "",
       "MAF3": "",
@@ -21,8 +21,8 @@
       "MAF5": "",
       "MR": "",
       "MaterialImages": [
-        "https://media-hosting.imagekit.io/1abc77be37f74428/WhatsApp%20Image%202025-03-29%20at%203.49.13%20PM.jpeg?Expires=1837851713\u0026Key-Pair-Id=K2ZIVPTIP2VGHC\u0026Signature=A66cSAlZ2W6Q2BBC0IpvUJ9zjXSnrshRaOQyoaqfSouOUmmJTU-skvQyg9UlZcaQ2bpojPYDrSsMz0JP9xUcKMXBmsUeSdtALiA1tMLO83flbIgEPctdp8FrZuCeLTcZeYiKMh~gbhjP7iF3xNZbGVXMV1F0KN4M8eDyipz-6YXnwY-hkZR63IqixDuXwUAv9nAVxgV~0kfaIoydin2Pg0ZeRrmVDrZBOwOLw2yDYZr60sV7x4KvztGZCpjAmdWJM99y9bDkvQWDrFI2ohzCTjCICZbs3XQ4ihHmlJjj48y7ji~fb-bdz6PKlzRumXXxuY5ZNuEWocjZG8MmJ5TomQ__",
-        "https://media-hosting.imagekit.io/3020b5dcc7474c9f/WhatsApp%20Image%202025-03-29%20at%203.49.12%20PM.jpeg?Expires=1837851713\u0026Key-Pair-Id=K2ZIVPTIP2VGHC\u0026Signature=w86lhOr98ZbmiIGrg28mRYQ4eA1dsZBRgRqyaltEDIAU2R~xvxDB03NbeOhvQuQPDIu-u6gC1SOyvOfS85blm-hGSQlCsjVJuuu5RezDawXgltqvemwyBIsSQ9hHAxnNBV71eIo-QCnVIMzRPefLaEUTUTL5ZvxZepjkfaxCLilVTGtxAJXhHalc~p2QbxhVhHsGLBAX4BJgQiDsEBwUMqZ-akUvB2oCIf0ZDMr-IJDK~XHWp5AU4NHfhhwBu0BDSc71iajmCVL24TZCxfBqZWTCtDEyU2By3qp09sW0MN13MLQdjP3Ll6m49b6M~tdWxyPXQQ6Za3xJDGUMAp7Rrw__"
+        "https://raw.githubusercontent.com/mylab2025/MID20259/main/Screenshot 2025-05-24 170902.png",
+        "https://raw.githubusercontent.com/mylab2025/MID20259/main/Screenshot 2025-05-24 170920.png"
       ]
     }
   ]
